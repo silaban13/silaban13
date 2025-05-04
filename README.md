@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silaban13&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🌱 Saat ini saya sedang belajar **Pengembang Tumpukan Penuh**
+- 🌱 Saat ini saya sedang belajar jadi **Full Stack Developer**
 
 - 💬 Tanyakan kepada saya tentang **apa saja**
 
