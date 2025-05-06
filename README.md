@@ -1,7 +1,7 @@
 <h1 align="center">Hai 👋, nama saya Mariono Silaban</h1>
 <h3 align="center">Pengembang frontend yang bersemangat dari Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/LojR.gif">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="" /> </p>
 
