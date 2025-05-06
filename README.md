@@ -1,9 +1,8 @@
 <h1 align="center">Hai 👋, nama saya Mariono Silaban</h1>
 <h3 align="center">Pengembang frontend yang bersemangat dari Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/19c8c01d-92f8-487c-ac4c-cdbd4de382fd)">
+<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/004/579/307/small_2x/programmer-working-on-computer-with-lots-of-data-free-vector.jpg">
 
-<p align="left"> <img src="" /> </p>
 
 - 🌱 Saat ini saya sedang belajar jadi **Full Stack Developer**
 
