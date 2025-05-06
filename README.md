@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/LojR.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silaban13&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 🌱 Saat ini saya sedang belajar jadi **Full Stack Developer**
 
