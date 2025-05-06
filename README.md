@@ -1,7 +1,7 @@
 <h1 align="center">Hai 👋, nama saya Mariono Silaban</h1>
 <h3 align="center">Pengembang frontend yang bersemangat dari Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fprogrammer-3d&psig=AOvVaw3guY-Zq8R4k787M3NNilMT&ust=1746584700432000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjRh4XljY0DFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="" /> </p>
 
